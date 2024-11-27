@@ -8,6 +8,9 @@
 
 Hi, I'm Eatfi.
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | Languages |
 | ---: | --------- |
 | 1 | java |
@@ -15,3 +18,5 @@ Hi, I'm Eatfi.
 | 3 | Lisp |
 | 4 | csharp |
 | 5 | cpp |
+
+</details>
