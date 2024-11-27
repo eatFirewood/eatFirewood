@@ -9,7 +9,7 @@
 Hi, I'm Eatfi.
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top LANGUAGES-TO-RANK</summary>
 
 | Rank | Languages |
 | ---: | --------- |
