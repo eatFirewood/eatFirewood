@@ -15,9 +15,9 @@ Hi, I'm Eatfi.
 | ---: | --------- |
 | 1 | java |
 | 2 | C |
-| 3 | Lisp |
-| 4 | csharp |
-| 5 | cpp |
+| 3 | csharp |
+| 4 | cpp |
+| 5 | lisp |
 
 </details>
 
